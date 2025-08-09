@@ -20,6 +20,7 @@ section {
     border-radius: 15px;
     margin-inline: auto;
     /* justify-self: center; */
+    box-shadow: 0px 0px 200px 1px rgba(0, 0, 0, 0.608);
 }
 
 .img-setion>.deflt-img {
